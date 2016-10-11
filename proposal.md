@@ -123,15 +123,15 @@ I am requesting **one single paymnet of 225 DASH** to cover the following:
 * the preceeding month's work (September)
 * the month during voting (October)
 * and support into the next month if the proposal passes (November)
+* community participation rewards
 
 ### Closing
 
 This community effort can grow as big or as small as we wish.  The more financial incentive we can offer the community the better and more expansive the platform and community will become, which will lead to a healthier, more decentralized community.  This platform will be ideal for
 
-* developers (projects that need to host code)
-* writers (of blogs, guides, etc.)
-* marketers or *anyone* who needs to host community funded files and content
-* community participation rewards
+* **developers** (projects that need to host code)
+* **writers** (of blogs, guides, etc.)
+* marketers or **anyone** who wishes to host community funded files and content on a powerful, transparent platform
 
 > "Anyone, with any skill set (software, quality assurance, automation, admin, marketing, legal, etc) is needed." - Evan Duffield
 
