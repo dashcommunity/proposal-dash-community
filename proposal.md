@@ -131,6 +131,7 @@ This community effort can grow as big or as small as we wish.  The more financia
 * developers (projects that need to host code)
 * writers (of blogs, guides, etc.)
 * marketers or *anyone* who needs to host community funded files and content
+* community participation rewards
 
 > "Anyone, with any skill set (software, quality assurance, automation, admin, marketing, legal, etc) is needed." - Evan Duffield
 
