@@ -1,106 +1,136 @@
-# Proposal Template - Detailed
+# Proposal - Dash Commmunity
 
-Salary for dash core team
+Open collaboration for dash-related projects
 
 ### Overview
 
-While v12 enabled budgeting and removed the reference node, our donation system was rendered inoperable by the latest version. The donation feature was supporting many of our developers, so we would like to replace that income stream with a more permanent solution that does not rely on altruism.
+> "Having lots of people involved with Dash is what makes it successful!" - Evan Duffield
 
-Working on Dash should come with some incentive, like receiving some money from the blockchain every month. However, we don't want to micromanage an open source project and we feel we have a highly trustworthy team. The way we plan on using the core team budget is to simply split it between all team members.
+Many people are eager to contribute to the dash project.  Many are not sure where and how to begin.  The **Dash Community** project I'm proposing **is a place where anyone can join and contribute their time and talents, using a collaborative, transparent, work-oriented platform**, i.e. Github.  
+
+There are many useful tools and resources in the dash ecosystem
+* The dash homepage
+ * The dash forum
+* The official documentation
+* The main Github repository
+* Varous Slack team and channels
+* Varous Community-produced sites
+  * [dash central](https://www.dashcentral.org/)
+  * [dash vote tracker](http://dashvotetracker.com/)
+* and more
+
+The resources above are very helpful for reference and use, but are somewhat restricted in terms of general community accessibility.  An open platform would provide opportunities for individuals and teams to build products and services that anyone else can easily help improve and contribute to.  
+
+Like every cryptocurrency project, dash's strength is the degree to which it becomes and remains decentralized and open.  This project will help lead dash in that direction.
 
 ### Scope
 
-To be a paid team member, one simply needs to agree to our pledge. The pledge is To work on Dash each and every day to expand and improve the ecosystem to the best of my ability?. Whatever someone feels they can contribute to the project is fine, as long as they meet that minimum amount of work. 
+Some of the Dash Community infrastructure has already been built.  This proposal is a request for reimbursement of the cost (time) required to bring it to the present state (conceptualization/planning, execution/writing, revisions, etc), as well as a request for further funding to imporve and support it.
 
-Our team structure is highly organized. We have professional project managers onboard which are helping monitor and optimize our process. These project managers have pledged to act as objective observers, hold each team member accountable for what they say they will do, and will recommend if some team members are underperforming or for other reasons need to be removed from a paid spot on the team.
-
-Anyone, with any skill set (software, quality assurance, automation, admin, marketing, legal, etc) is needed. 
+The following sub-sections will list what I've accomplished, what I plan to do throughout the month (during voting), and what I plan to do contingent on project funding.  Although this proposal's list will remain static, I will be continually updating [the project management board](https://github.com/dashcommunity/proposal-riongull-2016-10-06/projects/1).  My requested budget will remain fixed, but the deliverables you can expect may increase.  Check in anytime to see updates.
 
 ##### Deliverables
 
-1. Regular software updates
- 1. 0.12.1
- 2. 0.12.2
- 3. Evolution
-2. Communication intentions and project expectations via a regularly updated project roadmap
-3. Human resource management
-4. [Official documentation](https://dashpay.atlassian.net/wiki/display/DOC/Official+Documentation)
-5. Forum management
-6. Foundation management
+###### Completed (D1)
+1. Research community needs and potential solutions
+2. Launch Dash Community Github organization
+3. Populate organization with various repositories
+  1. [Dash Community landing page]()
+  2. [Guides](https://github.com/dashcommunity/guides) (5 total)
+  3. [Proposal Templates](https://github.com/dashcommunity/proposal-templates) (2 total + README)
+  4. Proposal examples (2 total + Github Pages site for each)
+    1. [Re-created core proposal](https://github.com/dashcommunity/proposal-test-2016-10-11) - [Site](https://dashcommunity.github.io/proposal-test-2016-10-11/)
+    1. [This proposal](https://github.com/dashcommunity/proposal-riongull-2016-10-11) - [Site](https://dashcommunity.github.io/proposal-riongull-2016-10-11/)
+  5. [Blog](https://github.com/dashcommunity/blog) (0 total)
+4. Create sample [project management board](https://github.com/dashcommunity/proposal-riongull-2016-10-06/projects/1)
+
+###### During October (D2)
+1. Invite people to join community and help them with writing their own proposals, blogs, guides, etc
+2. Update Dash Community landing page
+3. Set up /blog and /guides Github Pages
+4. Write a status report every two weeks showing progress and any required re-scoping and/or re-scheduling 
+
+
+###### Funding Contingent (D3)
+1. Pay people who joined and made at least one meaningful commit to the organization
+2. Re-scope the project according to community and masternode operator feedback/desires and submit proposal for next month(s)
+3. Continue inviting people and offering technical support
+4. Write status report template(s)
+5. Continue status reports
+
 
 ### Schedule
 
-It's up to the person how much they work on Dash and how much they are able to earn from the project.  Some of us will work really hard on Dash (often for 10+ hours a day), because we believe in it and we're willing to put in the time to make Dash a critical part of the future economy. We believe it's worth the time to do this.  Others have full time jobs, but they like to contribute during mornings, nights, and weekends. This is all great, the more people we can get putting effort into the project the better off we'll be in the long run.
+Table 1 below lists the key deliverables with anticipated completion dates.
 
 ##### Milestones
 
 ###### Table 1 - Project Milestones
-| Milestone   |              Description      | Completion Date |               Comment               |
-|-------------|-------------------------------|:---------------:|-------------------------------------|
-| MS 1        | Deliverable 1.1, 1.2 planned  |    2016-11-01   | Mostly done already                 |
-| MS 2        | Deliverable 1.1 done          |    2016-12-01   | Confident delivery date             |
-| MS 3        | Deliverable 1.2 done          |    2017-04-01   | Delivery update via MS 4 report     |
-| MS 4        | Deliverable 1.3 api v1 design |    2017-05-01   | Will deliver separate status report |
-| MS 5        | Deliverable 2 done            |    201x-xx-15   | Updated on 15th of each month       |
-| MS 6        | Deliverable 3-6               |    201x-xx-xx   | Managed as needed                   |
-| MS 7        | Deliverable 1.3 done          |    2017-10-01   | Delivery update via MS 4 report     |
+| MS ID |         Description      | Completion Date |               Comment                 |
+|-------|--------------------------|:---------------:|---------------------------------------|
+| MS 1  | D 1.1 through 1.4        | 2016-10-12      | mostly done already                   |
+| MS 2  | D 2.1 (invite & support) | continual       | will do throughout month (D 3.3 also) |
+| MS 3  | D 2.2, 2.3               | 2016-10-17      | /blog, /guides, main sites complete   |
+| MS 4  | D 2.4 (status reports)   | 2016-10-19      | second status report on 2016-11-02    |
+| MS 5  | D 3.1 (payments)         | 2017-11-07      | all promised payments sent            |
+| MS 6  | D 3.2 (new proposal)     | 2016-11-09      | re-scope and deliver new proposal     |
+| MS 7  | D 3.4, 3.5 (rprt+tmplt)  | 2016-11-16      | second status report on 2016-11-30    |
 
 ### Budget
 
-We will be 100% transparent about who on our team is paid and how much they are paid. As defined, a core team member is someone that has made the above pledge to work on Dash everyday. That person then has the freedom to work on Dash as much as they wish to expand their earning potential. We believe in transparency when it comes to the administration of a decentralized product such as Dash, so we will make this data available on one of the websites for the community.
+Total proposed project costs are summarized in Table 2. 
 
-I'd like to stress that this compensation is by no means meant to provide a "full-time salary" for contributors. Compensation will be modest. At current market prices, the compensation would fall in the category of token appreciation.  We intend to have 2 kinds of slots for paid team members depending on the amount of time they are willing to commit - part-time and full-time. Full-time slots will offer payment of 2-4x (TBD by the project management team, maybe even a monthly contest?) that of a part-time slot. Team members can switch between the two depending on how much they feel they can offer to the project. This should give us flexibility to provide incentive for development and show appreciation for the work that is being done.  We will also encourage team members to hold their Dash they are paid long term. 
+The costs to perform the deliverables and milestones above are based on expected (and expended) time required to perform the item, along with a given billable rate.  All of this work is exclusively my own, and is billed at 5 DASH/hr. Details are shown in Table 3.
 
+In addition to my time, I would like to compensate community members for their time and interest in the project.  I am proposing to pay all community members who join and contribute at least one meaningful commit to the organization.  Rates for this are proposed in Table 4. 
 
 ##### Itemized Costs
 
-###### Table 2 - Total Costs Requested
-|         Item        |    Cost   |   Units  |                       Comment                      |
-|---------------------|:---------:|:--------:|----------------------------------------------------|
-| Time                |   $1,080  |    USD   | See Table 3                                        |
-| Materials           |    $210   |    USD   | See Table 4                                        |
-| *Subtotal*          |  *$1,290* |    USD   | Total project cost                                 |
-| *Subtotal*          |  *107.5*  |   DASH   | Using $12 USD/DASH                                 |
-| **Total Requested** |  **100**  | **DASH** | Round down, because I love dash (and even numbers) |
+###### Table 2 - Cost Summary
+|     Item     |    Cost  |   Units  |   Comment    |
+|--------------|:--------:|:--------:|--------------|
+| Deliverables |    175   |   DASH   | See Table 3  |
+| Community    |     50   |   DASH   | See Table 4  |
+| **Total**    |  **225** | **DASH** |              |
 
-###### Table 3 - Time Costs
-| Time Costs  | Description       | Quantity |  Rate (USD)  | Cost (USD) | Comment                       |
-|-------------|-------------------|:--------:|:------------:|:----------:|-------------------------------|
-| TC 1        | Deliverable 1     |   1 hr   |       $50    |     $50    | $50/hr billable rate          |
-| TC 2        | Deliverable 2     |  10 hrs  |       $50    |    $500    | $50/hr billable rate          |
-| TC 3        | Deliverable 2     |     -    |        -     |    $600    | Quote: Dash Developers, Inc   |
-| TC 4        | Deliverable 3     |   2 hrs  |       $25    |     $50    | $25/hr billable rate          |
-| *Subtotal*  |                   |          |              |  *$1,200*  | Assumes 12 USD/DASH (rounded) |
-| Discount    | 10% reduction     |          |              |    -$120   | Because I love dash           |
-| **Total**   |                   |          |              | **$1,080** | Total time costs              |
+###### Table 3 - Compensation for Deliverables
+| Time Costs | Desc.    | Time Est | Rate (D/hr) | Cost (DASH)  |   Comment           |
+|------------|--------- |:--------:|:-----------:|:------------:|---------------------|
+| TC 1       | MS 1     | 20 hr(s) |    5 DASH   |   100 DASH   |                     |
+| TC 2       | MS 2     | 10 hr(s) |    5 DASH   |    50 DASH   |                     |
+| TC 3       | MS 3     |  4 hr(s) |    5 DASH   |    20 DASH   |                     |
+| TC 4       | MS 4     |  2 hr(s) |    5 DASH   |    10 DASH   |                     |
+| TC 5       | MS 5     |  5 hr(s) |    5 DASH   |    25 DASH   |                     |
+| TC 6       | MS 6     |  0 hr(s) |    5 DASH   |     0 DASH   |                     |
+| TC 7       | MS 7     |  3 hr(s) |    5 DASH   |    15 DASH   |                     |
+| *Subtotal* |          |          |             |  *220 DASH*  |                     |
+| Discount   | 20% off  |          |             |   -44 DASH   | I love dash!        |
+| **Total**  |          |          |             | **175 DASH** | rounded down 1 DASH |
 
-###### Table 4 - Material Costs
-| Material Costs |    Description    |  Deliverable  | Cost (USD) |          Comment         |
-|----------------|-------------------|:-------------:|:----------:|--------------------------|
-| MC 1           | Hardware          | Deliverable 1 |    $200    | Raspberry Pi for testing |
-| MC 2           | Subscription fees | Deliverable 3 |     $10    |                          |
-| **Total**      |                   |               |  **$210**  | Total material costs     |
-
-
-###### Table 2
-|         Item  |   Price  |   Qty    |   Cost   |   Unit   |           Comment      |
-|---------------|----------|----------|----------|----------|------------------------|
-| Role 1        |  244.67  |     1    |  244.67  |   DASH   | Tungfa                 |
-| Role 2        |  183.50  |     1    |  183.50  |   DASH   | AndyDark               |
-| Role 3        |   61.17  |    11    |  672.87  |   DASH   | See Note 1             |
-| Role 4        |   25.00  |     3    |   75.00  |   DASH   | Elbereth, Alexy, Raico |
-| **Total       |          |  **16**  | 1176.67  | **DASH** |                        |
-
-* *Note 1: Flare, UdjinM6, Moocowmoo, Crowning, Fernando, Kot, QuantumExplorer, Yidakee, BabyGiraffe, Acidburn, Ddink7*
+###### Table 4 - Compensation for Community Participation
+| Part. Costs |    Description    |  Reward  |   Cost     |          Comment                       |
+|-------------|-------------------|:--------:|:----------:|----------------------------------------|
+| TC 8        | First 10 people...| 1.0 DASH |  10 DASH   | ...who make 1 or more commits          |
+| TC 9        | Next 20 people    | 0.5 DASH |  10 DASH   | ...who make 1 or more commits          |
+| TC 10       | Remaining people  |   ? DASH |  10 DASH   | split between remaining who join       |
+| TC 11       | Discretionary     |   ? DASH |  20 DASH   | for great content (blogs, guides, etc) |
+| **Total**   |                   |          |**50 DASH**|                                        |
 
 ##### Terms
 
-We are requesting to fund this for 100 months.  It's just a big number that is more than enough.  We can always adjust it later.  
+I am requesting **one single paymnet of 225 DASH** to cover the following: 
 
-* 117,600 DASH total
-  * 1,176 DASH per month
-  * 100 months
+* the preceeding month's work (September)
+* the month during voting (October)
+* and support into the next month if the proposal passes (November)
 
 ### Closing
 
-We believe in this project and want all those getting compensated to benefit when we finally succeed, this will help spread the benefit out to those that contribute the most to make it happen.  Having lots of people involved with Dash is what makes this successful! If you want to contribute, feel free to ping any of us to join the team.
+This community effort can grow as big or as small as we wish.  The more financial incentive we can offer the community the better and more expansive the platform and community will become, which will lead to a healthier, more decentralized community.  This platform will be ideal for
+
+* developers (projects that need to host code)
+* writers (of blogs, guides, etc.)
+* marketers or *anyone* who needs to host community funded files and content
+
+> "Anyone, with any skill set (software, quality assurance, automation, admin, marketing, legal, etc) is needed." - Evan Duffield
+
