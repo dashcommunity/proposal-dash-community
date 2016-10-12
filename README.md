@@ -1,2 +1,2 @@
-# proposal-riongull-2016-10-06
+# proposal-dash-community
 dash-community
