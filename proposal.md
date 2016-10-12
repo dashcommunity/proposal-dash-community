@@ -27,7 +27,7 @@ The resources above are very helpful for reference and use, but are somewhat res
 
 Some of the Dash Community infrastructure (this Github organization and repositories within) has already been built.  This proposal is a request for reimbursement of the cost incurred (time spent) bringing it to the present state, as well as a request for further funding to imporve it, and support the community in using it.
 
-The following sub-sections will list what I've accomplished, what I plan to do throughout the month (during voting), and what I plan to do contingent on project funding.  This proposal will remain static after submission, but I will be continually updating [the project management board](https://github.com/dashcommunity/proposal-dash-community/projects/1).  My requested budget will remain fixed, but the effort and deliverables you can expect may increase.  Stop by occassionally, or [Watch](https://github.com/dashcommunity/proposal-dash-community/subscription) the repo for updates.
+The following sub-sections will list what I've accomplished, what I plan to do throughout the month (during voting), and what I plan to do contingent on project funding.  This proposal will remain static after submission, but I will be continually updating [the project management board](https://github.com/dashcommunity/proposal-dash-community/projects/1).  My requested budget will remain fixed, but the effort and deliverables you can expect may increase.  Stop by occassionally, or [watch](https://github.com/dashcommunity/proposal-dash-community/subscription) the repo for updates.
 
 ##### Deliverables
 
