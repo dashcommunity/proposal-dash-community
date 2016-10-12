@@ -72,15 +72,15 @@ Table 1 below lists the key deliverables with anticipated completion dates.
 ##### Milestones
 
 ###### Table 1 - Project Milestones
-| ID |         Description          | Completion Date |               Comment                 |
-|----|------------------------------|:---------------:|---------------------------------------|
-| M1 | D 1.1 through 1.7            | 2016-10-12      | mostly done already                   |
-| M2 | D 2.1 (comm. expansion)      | continual       | will do throughout month (D 3.3 also) |
-| M3 | D 2.2, 2.3 (landing pages)   | 2016-10-17      | create /blog, /guides, main sites     |
-| M4 | D 2.4 (status reports)       | 2016-10-19      | second status report on 2016-11-02    |
-| M5 | D 3.1 (payments)             | 2017-11-07      | all promised payments sent            |
-| M6 | D 3.2 (new proposal)         | 2016-11-09      | re-scope and deliver new proposal     |
-| M7 | D 3.4, 3.5 (report+tempalte) | 2016-11-16      | second status report on 2016-11-30    |
+| ID |         Description          | Completion Date |               Comment                |
+|----|------------------------------|:---------------:|--------------------------------------|
+| M1 | D1.1 through D1.7            | 2016-10-12      | mostly done already                  |
+| M2 | D2.1 (community expansion)   | continual       | will do throughout month (D3.3 also) |
+| M3 | D2.2, 2.3 (landing pages)    | 2016-10-17      | create /blog, /guides, main sites    |
+| M4 | D2.4 (status reports)        | 2016-10-19      | second status report on 2016-11-02   |
+| M5 | D3.1 (payments)              | 2017-11-07      | all promised payments sent           |
+| M6 | D3.2 (new proposal)          | 2016-11-09      | re-scope and deliver new proposal    |
+| M7 | D3.4, D3.5 (report+template) | 2016-11-16      | second status report on 2016-11-30   |
 
 ### Budget
 
@@ -93,11 +93,11 @@ In addition to my time, I would like to compensate community members for their t
 ##### Itemized Costs
 
 ###### Table 2 - Cost Summary
-|     Item     |    Cost  |   Units  |   Comment    |
-|--------------|:--------:|:--------:|--------------|
-| Deliverables |    200   |   DASH   | See Table 3  |
-| Community    |     50   |   DASH   | See Table 4  |
-| **Total**    |  **250** | **DASH** |              |
+|     Item               |    Cost  |   Units  |   Comment    |
+|------------------------|:--------:|:--------:|--------------|
+| Deliverables           |    200   |   DASH   | See Table 3  |
+| Community Partcipation |     50   |   DASH   | See Table 4  |
+| **Total**              |  **250** | **DASH** |              |
 
 ###### Table 3 - Compensation for Deliverables
 |  Cost    | Desc.   | Time Est | Rate (D/hr) | Cost (DASH)  |   Comment     |
