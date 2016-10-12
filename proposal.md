@@ -44,7 +44,7 @@ The following sub-sections will list what I've accomplished, what I plan to do t
 4. [Proposal Templates](https://github.com/dashcommunity/proposal-templates)
   1. [Simple](https://github.com/dashcommunity/proposal-templates/blob/master/simple.md)
   2. [Detailed](https://github.com/dashcommunity/proposal-templates/blob/master/detailed.md) 
-5. [Proposal examples](https://github.com/dashcommunity/proposal-templates)
+5. Proposal examples
   1. [Re-created core proposal](https://github.com/dashcommunity/proposal-core-team-remake) with accompanying [landing page](https://dashcommunity.github.io/proposal-core-team-remake/)
   2. [This proposal](https://github.com/dashcommunity/proposal-dash-community) with accompanying [landing page](https://dashcommunity.github.io/proposal-dash-community/)
 6. [Blog](https://github.com/dashcommunity/blog)
