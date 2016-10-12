@@ -1,2 +1,2 @@
 # proposal-dash-community
-dash-community
+Open collaboration for dash-related projects
