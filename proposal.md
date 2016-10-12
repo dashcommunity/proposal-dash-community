@@ -51,7 +51,7 @@ The following sub-sections will list what I've accomplished, what I plan to do t
 7. [Sample project management board](https://github.com/dashcommunity/proposal-dash-community/projects/1?fullscreen=true)
 
 ###### October Deliverables (D2.x)
-1. Expanded community (through invitation technical support with proposals, blogs, guides, etc)
+1. Expanded community (through invitations, technical support with proposals, blogs, guides, etc)
 2. Updated [landing page for Dash Community](https://dashcommunity.github.io/))
 3. Landing pages for [guides]((https://github.com/dashcommunity/guides)) and [blog](https://github.com/dashcommunity/blog) 
 4. Status report every two weeks showing progress and any required re-scoping and/or re-scheduling 
@@ -60,7 +60,7 @@ The following sub-sections will list what I've accomplished, what I plan to do t
 ###### November Deliverables (D3.x)
 1. Payments to people who join and make at least one meaningful commit to the organization
 2. Proposal with re-scoped project (according to community and masternode operator feedback/desires)
-3. Expanded community (through invitation technical support)
+3. Expanded community (through invitations, technical support, etc)
 4. Status report template(s)
 5. Status reports
 
