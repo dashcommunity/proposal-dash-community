@@ -48,7 +48,7 @@ The following sub-sections will list what I've accomplished, what I plan to do t
   1. [Re-created core proposal](https://github.com/dashcommunity/proposal-core-team-remake) with accompanying [landing page](https://dashcommunity.github.io/proposal-core-team-remake/)
   2. [This proposal](https://github.com/dashcommunity/proposal-dash-community) with accompanying [landing page](https://dashcommunity.github.io/proposal-dash-community/)
 6. [Blog](https://github.com/dashcommunity/blog)
-7. [Sample project management board](https://github.com/dashcommunity/proposal-dash-community/projects/1)
+7. [Sample project management board](https://github.com/dashcommunity/proposal-dash-community/projects/1?fullscreen=true)
 
 ###### October Deliverables (D2.x)
 1. Expanded community (through invitation technical support with proposals, blogs, guides, etc)
