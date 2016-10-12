@@ -36,13 +36,13 @@ The following sub-sections will list what I've accomplished, what I plan to do t
 1. [Dash Community Github organization](https://github.com/dashcommunity)
 2. [Dash Community landing page](https://dashcommunity.github.io/)
 3. [Guides](https://github.com/dashcommunity/guides)
-  1. [Create a proposal from a Template]https://github.com/dashcommunity/guides/blob/master/create_proposal_from_template.md
-  2. [Create a proposal template]https://github.com/dashcommunity/guides/blob/master/create_proposal_template.md
-  3. [Set up a masternode]https://github.com/dashcommunity/guides/blob/master/set_up_masternode.md
-  4. [Set up a virtual private server]https://github.com/dashcommunity/guides/blob/master/set_up_virtual_private_server.md
-  5. [submit a proposal to the dash network]https://github.com/dashcommunity/guides/blob/master/submit_proposal_to_network.md
+  1. [Create a proposal from a Template](https://github.com/dashcommunity/guides/blob/master/create_proposal_from_template.md)
+  2. [Create a proposal template](https://github.com/dashcommunity/guides/blob/master/create_proposal_template.md)
+  3. [Set up a masternode](https://github.com/dashcommunity/guides/blob/master/set_up_masternode.md)
+  4. [Set up a virtual private server](https://github.com/dashcommunity/guides/blob/master/set_up_virtual_private_server.md)
+  5. [submit a proposal to the dash network](https://github.com/dashcommunity/guides/blob/master/submit_proposal_to_network.md)
 4. [Proposal Templates](https://github.com/dashcommunity/proposal-templates)
-  1. [simple.md](https://github.com/dashcommunity/proposal-templates/blob/master/simple.md)
+  1. [simple](https://github.com/dashcommunity/proposal-templates/blob/master/simple.md)
   2. [detailed](https://github.com/dashcommunity/proposal-templates/blob/master/detailed.md) 
 5. [Proposal examples](https://github.com/dashcommunity/proposal-templates)
   1. [Re-created core proposal](https://github.com/dashcommunity/proposal-core-team-remake) - [Site](https://dashcommunity.github.io/proposal-core-team-remake/)
@@ -76,7 +76,7 @@ Table 1 below lists the key deliverables with anticipated completion dates.
 |----|------------------------------|:---------------:|---------------------------------------|
 | M1 | D 1.1 through 1.7            | 2016-10-12      | mostly done already                   |
 | M2 | D 2.1 (comm. expansion)      | continual       | will do throughout month (D 3.3 also) |
-| M3 | D 2.2, 2.3 (land pages)      | 2016-10-17      | create /blog, /guides, main sites     |
+| M3 | D 2.2, 2.3 (landing pages)   | 2016-10-17      | create /blog, /guides, main sites     |
 | M4 | D 2.4 (status reports)       | 2016-10-19      | second status report on 2016-11-02    |
 | M5 | D 3.1 (payments)             | 2017-11-07      | all promised payments sent            |
 | M6 | D 3.2 (new proposal)         | 2016-11-09      | re-scope and deliver new proposal     |
@@ -100,26 +100,26 @@ In addition to my time, I would like to compensate community members for their t
 | **Total**    |  **250** | **DASH** |              |
 
 ###### Table 3 - Compensation for Deliverables
-|  Cost    | Desc.   | Time Est | Rate (D/hr) | Cost (DASH)  |   Comment           |
-|----------|-------- |:--------:|:-----------:|:------------:|---------------------|
-| C1       | M1      | 36 hr(s) |    5 DASH   |   180 DASH   |                     |
-| C2       | M2      | 10 hr(s) |    5 DASH   |    50 DASH   |                     |
-| C3       | M3      |  4 hr(s) |    5 DASH   |    20 DASH   |                     |
-| C4       | M4      |  2 hr(s) |    5 DASH   |    10 DASH   |                     |
-| C5       | M5      |  5 hr(s) |    5 DASH   |    25 DASH   |                     |
-| C6       | M6      |  0 hr(s) |    5 DASH   |     0 DASH   |                     |
-| C7       | M7      |  3 hr(s) |    5 DASH   |    15 DASH   |                     |
-|*Subtotal*|         |          |             |  *300 DASH*  |                     |
-| Discount |         |          |             |  -100 DASH   | I love dash!        |
-|**Total** |         |          |             | **200 DASH** |                     |
+|  Cost    | Desc.   | Time Est | Rate (D/hr) | Cost (DASH)  |   Comment     |
+|----------|-------- |:--------:|:-----------:|:------------:|---------------|
+| C1       | M1      | 36 hr(s) |    5 DASH   |   180 DASH   |               |
+| C2       | M2      | 10 hr(s) |    5 DASH   |    50 DASH   |               |
+| C3       | M3      |  4 hr(s) |    5 DASH   |    20 DASH   |               |
+| C4       | M4      |  2 hr(s) |    5 DASH   |    10 DASH   |               |
+| C5       | M5      |  5 hr(s) |    5 DASH   |    25 DASH   |               |
+| C6       | M6      |  0 hr(s) |    5 DASH   |     0 DASH   |               |
+| C7       | M7      |  3 hr(s) |    5 DASH   |    15 DASH   |               |
+|*Subtotal*|         |          |             |  *300 DASH*  |               |
+| Discount |         |          |             |  -100 DASH   | I love dash!  |
+|**Total** |         |          |             | **200 DASH** |               |
 
 ###### Table 4 - Compensation for Community Participation
 |   Cost  |    Description    |  Reward  |   Cost     |          Comment                       |
 |---------|-------------------|:--------:|:----------:|----------------------------------------|
 | C8      | First 10 people...| 1.0 DASH |  10 DASH   | ...who make 1 or more commits          |
 | C9      | Next 20 people    | 0.5 DASH |  10 DASH   | ...who make 1 or more commits          |
-| C10     | Remaining people  |    ---   |  10 DASH   | split between remaining who join       |
-| C11     | Discretionary     |    ---   |  20 DASH   | for great content (blogs, guides, etc) |
+| C10     | Remaining people  |          |  10 DASH   | split between remaining who join       |
+| C11     | Discretionary     |          |  20 DASH   | for great content (blogs, guides, etc) |
 |**Total**|                   |          |**50 DASH**|                                         |
 
 ##### Terms
