@@ -6,57 +6,63 @@ Open collaboration for dash-related projects
 
 > "Having lots of people involved with Dash is what makes it successful!" - Evan Duffield
 
-Many people are eager to contribute to the dash project.  Many are not sure where and how to begin.  The **Dash Community** project I'm proposing **is a place where anyone can join and contribute their time and talents, using a collaborative, transparent, work-oriented platform**, i.e. Github.  
+This proposed project aims to get more people actively involved with dash.  Like every cryptocurrency project, dash's strength is the degree to which it becomes and remains decentralized and open.  This project will help lead dash in that direction.
+
+Many people are eager to contribute to the dash project.  Many are not sure where and how to begin.  The **Dash Community** project I'm proposing **is a place where anyone can join and contribute their time and talents, using a collaborative, transparent, work-oriented platform**.  This [Github organization](https://github.com/dashcommunity) and repositories therein is that place.  
 
 There are many useful tools and resources in the dash ecosystem
-* The dash homepage
- * The dash forum
-* The official documentation
-* The main Github repository
-* Varous Slack team and channels
+* [Dash.org](https://www.dash.org/) and the accompanying [forum](https://www.dash.org/forum/)
+* The [official project documentation](https://dashpay.atlassian.net/wiki/display/DOC/Official+Documentation)
+* The main [dashpay Github repository](https://github.com/dashpay)
+* Varous Slack teams and channels
 * Varous Community-produced sites
   * [dash central](https://www.dashcentral.org/)
   * [dash vote tracker](http://dashvotetracker.com/)
 * and more
 
-The resources above are very helpful for reference and use, but are somewhat restricted in terms of general community accessibility.  An open platform would provide opportunities for individuals and teams to build products and services that anyone else can easily help improve and contribute to.  
+The resources above are very helpful for reference and use, but are somewhat restricted in terms of general community accessibility.  The community cannot directly help build on and improve these resources.  An open platform would provide opportunities for individuals and teams to build products and services that anyone else can easily contribute to.  This [Github organization](https://github.com/dashcommunity) is that platform.
 
-Like every cryptocurrency project, dash's strength is the degree to which it becomes and remains decentralized and open.  This project will help lead dash in that direction.
 
 ### Scope
 
-Some of the Dash Community infrastructure has already been built.  This proposal is a request for reimbursement of the cost (time) required to bring it to the present state (conceptualization/planning, execution/writing, revisions, etc), as well as a request for further funding to imporve and support it.
+Some of the Dash Community infrastructure (this Github organization and repositories within) has already been built.  This proposal is a request for reimbursement of the cost incurred (time spent) bringing it to the present state, as well as a request for further funding to imporve it, and support the community in using it.
 
-The following sub-sections will list what I've accomplished, what I plan to do throughout the month (during voting), and what I plan to do contingent on project funding.  Although this proposal's list will remain static, I will be continually updating [the project management board](https://github.com/dashcommunity/proposal-riongull-2016-10-06/projects/1).  My requested budget will remain fixed, but the deliverables you can expect may increase.  Check in anytime to see updates.
+The following sub-sections will list what I've accomplished, what I plan to do throughout the month (during voting), and what I plan to do contingent on project funding.  This proposal will remain static after submission, but I will be continually updating [the project management board](https://github.com/dashcommunity/proposal-dash-community/projects/1).  My requested budget will remain fixed, but the effort and deliverables you can expect may increase.  Stop by occassionally, or [Watch](https://github.com/dashcommunity/proposal-dash-community/subscription) the repo for updates.
 
 ##### Deliverables
 
-###### Completed (D1)
-1. Research community needs and potential solutions
-2. Launch Dash Community Github organization
-3. Populate organization with various repositories
-  1. [Dash Community landing page]()
-  2. [Guides](https://github.com/dashcommunity/guides) (5 total)
-  3. [Proposal Templates](https://github.com/dashcommunity/proposal-templates) (2 total + README)
-  4. Proposal examples (2 total + Github Pages site for each)
-    1. [Re-created core proposal](https://github.com/dashcommunity/proposal-test-2016-10-11) - [Site](https://dashcommunity.github.io/proposal-test-2016-10-11/)
-    1. [This proposal](https://github.com/dashcommunity/proposal-riongull-2016-10-11) - [Site](https://dashcommunity.github.io/proposal-riongull-2016-10-11/)
-  5. [Blog](https://github.com/dashcommunity/blog) (0 total)
-4. Create sample [project management board](https://github.com/dashcommunity/proposal-riongull-2016-10-06/projects/1)
+###### Completed Deliverables (D1.x)
 
-###### During October (D2)
-1. Invite people to join community and help them with writing their own proposals, blogs, guides, etc
-2. Update Dash Community landing page
-3. Set up /blog and /guides Github Pages
-4. Write a status report every two weeks showing progress and any required re-scoping and/or re-scheduling 
+1. [Dash Community Github organization](https://github.com/dashcommunity)
+2. [Dash Community landing page](https://dashcommunity.github.io/)
+3. [Guides](https://github.com/dashcommunity/guides)
+  1. [Create a proposal from a Template]https://github.com/dashcommunity/guides/blob/master/create_proposal_from_template.md
+  2. [Create a proposal template]https://github.com/dashcommunity/guides/blob/master/create_proposal_template.md
+  3. [Set up a masternode]https://github.com/dashcommunity/guides/blob/master/set_up_masternode.md
+  4. [Set up a virtual private server]https://github.com/dashcommunity/guides/blob/master/set_up_virtual_private_server.md
+  5. [submit a proposal to the dash network]https://github.com/dashcommunity/guides/blob/master/submit_proposal_to_network.md
+4. [Proposal Templates](https://github.com/dashcommunity/proposal-templates)
+  1. [simple.md](https://github.com/dashcommunity/proposal-templates/blob/master/simple.md)
+  2. [detailed](https://github.com/dashcommunity/proposal-templates/blob/master/detailed.md) 
+5. [Proposal examples](https://github.com/dashcommunity/proposal-templates)
+  1. [Re-created core proposal](https://github.com/dashcommunity/proposal-core-team-remake) - [Site](https://dashcommunity.github.io/proposal-core-team-remake/)
+  2. [This proposal](https://github.com/dashcommunity/proposal-dash-community) - [Site](https://dashcommunity.github.io/proposal-dash-community/)
+6. [Blog](https://github.com/dashcommunity/blog)
+7. [Sample project management board](https://github.com/dashcommunity/proposal-dash-community/projects/1)
+
+###### October Deliverables (D2.x)
+1. Expanded community (through invitation technical support with proposals, blogs, guides, etc)
+2. Updated [landing page for Dash Community](https://dashcommunity.github.io/))
+3. Landing pages for [guides]((https://github.com/dashcommunity/guides)) and [blog](https://github.com/dashcommunity/blog) 
+4. Status report every two weeks showing progress and any required re-scoping and/or re-scheduling 
 
 
-###### Funding Contingent (D3)
-1. Pay people who joined and made at least one meaningful commit to the organization
-2. Re-scope the project according to community and masternode operator feedback/desires and submit proposal for next month(s)
-3. Continue inviting people and offering technical support
-4. Write status report template(s)
-5. Continue status reports
+###### November Deliverables (D3.x)
+1. Payments to people who join and make at least one meaningful commit to the organization
+2. Proposal with re-scoped project (according to community and masternode operator feedback/desires)
+3. Expanded community (through invitation technical support)
+4. Status report template(s)
+5. Status reports
 
 
 ### Schedule
@@ -66,15 +72,15 @@ Table 1 below lists the key deliverables with anticipated completion dates.
 ##### Milestones
 
 ###### Table 1 - Project Milestones
-| MS ID |         Description      | Completion Date |               Comment                 |
-|-------|--------------------------|:---------------:|---------------------------------------|
-| MS 1  | D 1.1 through 1.4        | 2016-10-12      | mostly done already                   |
-| MS 2  | D 2.1 (invite & support) | continual       | will do throughout month (D 3.3 also) |
-| MS 3  | D 2.2, 2.3               | 2016-10-17      | /blog, /guides, main sites complete   |
-| MS 4  | D 2.4 (status reports)   | 2016-10-19      | second status report on 2016-11-02    |
-| MS 5  | D 3.1 (payments)         | 2017-11-07      | all promised payments sent            |
-| MS 6  | D 3.2 (new proposal)     | 2016-11-09      | re-scope and deliver new proposal     |
-| MS 7  | D 3.4, 3.5 (rprt+tmplt)  | 2016-11-16      | second status report on 2016-11-30    |
+| ID |         Description          | Completion Date |               Comment                 |
+|----|------------------------------|:---------------:|---------------------------------------|
+| M1 | D 1.1 through 1.7            | 2016-10-12      | mostly done already                   |
+| M2 | D 2.1 (comm. expansion)      | continual       | will do throughout month (D 3.3 also) |
+| M3 | D 2.2, 2.3 (land pages)      | 2016-10-17      | create /blog, /guides, main sites     |
+| M4 | D 2.4 (status reports)       | 2016-10-19      | second status report on 2016-11-02    |
+| M5 | D 3.1 (payments)             | 2017-11-07      | all promised payments sent            |
+| M6 | D 3.2 (new proposal)         | 2016-11-09      | re-scope and deliver new proposal     |
+| M7 | D 3.4, 3.5 (report+tempalte) | 2016-11-16      | second status report on 2016-11-30    |
 
 ### Budget
 
@@ -89,41 +95,41 @@ In addition to my time, I would like to compensate community members for their t
 ###### Table 2 - Cost Summary
 |     Item     |    Cost  |   Units  |   Comment    |
 |--------------|:--------:|:--------:|--------------|
-| Deliverables |    175   |   DASH   | See Table 3  |
+| Deliverables |    200   |   DASH   | See Table 3  |
 | Community    |     50   |   DASH   | See Table 4  |
-| **Total**    |  **225** | **DASH** |              |
+| **Total**    |  **250** | **DASH** |              |
 
 ###### Table 3 - Compensation for Deliverables
-| Time Costs | Desc.    | Time Est | Rate (D/hr) | Cost (DASH)  |   Comment           |
-|------------|--------- |:--------:|:-----------:|:------------:|---------------------|
-| TC 1       | MS 1     | 20 hr(s) |    5 DASH   |   100 DASH   |                     |
-| TC 2       | MS 2     | 10 hr(s) |    5 DASH   |    50 DASH   |                     |
-| TC 3       | MS 3     |  4 hr(s) |    5 DASH   |    20 DASH   |                     |
-| TC 4       | MS 4     |  2 hr(s) |    5 DASH   |    10 DASH   |                     |
-| TC 5       | MS 5     |  5 hr(s) |    5 DASH   |    25 DASH   |                     |
-| TC 6       | MS 6     |  0 hr(s) |    5 DASH   |     0 DASH   |                     |
-| TC 7       | MS 7     |  3 hr(s) |    5 DASH   |    15 DASH   |                     |
-| *Subtotal* |          |          |             |  *220 DASH*  |                     |
-| Discount   | 20% off  |          |             |   -44 DASH   | I love dash!        |
-| **Total**  |          |          |             | **175 DASH** | rounded down 1 DASH |
+|  Cost    | Desc.   | Time Est | Rate (D/hr) | Cost (DASH)  |   Comment           |
+|----------|-------- |:--------:|:-----------:|:------------:|---------------------|
+| C1       | M1      | 36 hr(s) |    5 DASH   |   180 DASH   |                     |
+| C2       | M2      | 10 hr(s) |    5 DASH   |    50 DASH   |                     |
+| C3       | M3      |  4 hr(s) |    5 DASH   |    20 DASH   |                     |
+| C4       | M4      |  2 hr(s) |    5 DASH   |    10 DASH   |                     |
+| C5       | M5      |  5 hr(s) |    5 DASH   |    25 DASH   |                     |
+| C6       | M6      |  0 hr(s) |    5 DASH   |     0 DASH   |                     |
+| C7       | M7      |  3 hr(s) |    5 DASH   |    15 DASH   |                     |
+|*Subtotal*|         |          |             |  *300 DASH*  |                     |
+| Discount |         |          |             |  -100 DASH   | I love dash!        |
+|**Total** |         |          |             | **200 DASH** |                     |
 
 ###### Table 4 - Compensation for Community Participation
-| Part. Costs |    Description    |  Reward  |   Cost     |          Comment                       |
-|-------------|-------------------|:--------:|:----------:|----------------------------------------|
-| TC 8        | First 10 people...| 1.0 DASH |  10 DASH   | ...who make 1 or more commits          |
-| TC 9        | Next 20 people    | 0.5 DASH |  10 DASH   | ...who make 1 or more commits          |
-| TC 10       | Remaining people  |   ? DASH |  10 DASH   | split between remaining who join       |
-| TC 11       | Discretionary     |   ? DASH |  20 DASH   | for great content (blogs, guides, etc) |
-| **Total**   |                   |          |**50 DASH**|                                        |
+|   Cost  |    Description    |  Reward  |   Cost     |          Comment                       |
+|---------|-------------------|:--------:|:----------:|----------------------------------------|
+| C8      | First 10 people...| 1.0 DASH |  10 DASH   | ...who make 1 or more commits          |
+| C9      | Next 20 people    | 0.5 DASH |  10 DASH   | ...who make 1 or more commits          |
+| C10     | Remaining people  |    ---   |  10 DASH   | split between remaining who join       |
+| C11     | Discretionary     |    ---   |  20 DASH   | for great content (blogs, guides, etc) |
+|**Total**|                   |          |**50 DASH**|                                         |
 
 ##### Terms
 
-I am requesting **one single paymnet of 225 DASH** to cover the following: 
+I am requesting **one single paymnet of 250 DASH** to cover the following: 
 
 * the preceeding month's work (September)
 * the month during voting (October)
 * and support into the next month if the proposal passes (November)
-* community participation rewards
+* community participation rewards (November)
 
 ### Closing
 
