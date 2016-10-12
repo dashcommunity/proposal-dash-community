@@ -53,7 +53,7 @@ The following sub-sections will list what I've accomplished, what I plan to do t
 ###### October Deliverables (D2.x)
 1. Expanded community (through invitations, technical support with proposals, blogs, guides, etc)
 2. Updated [landing page for Dash Community](https://dashcommunity.github.io/))
-3. Landing pages for [guides]((https://github.com/dashcommunity/guides)) and [blog](https://github.com/dashcommunity/blog) 
+3. Landing pages for [guides](https://github.com/dashcommunity/guides) and [blog](https://github.com/dashcommunity/blog) 
 4. Status report every two weeks showing progress and any required re-scoping and/or re-scheduling 
 
 
