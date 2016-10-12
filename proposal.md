@@ -117,7 +117,7 @@ In addition to my time, I would like to compensate community members for their t
 |   Cost  |    Description    |  Reward  |   Cost     |          Comment                       |
 |---------|-------------------|:--------:|:----------:|----------------------------------------|
 | C8      | First 10 people...| 1.0 DASH |  10 DASH   | ...who make 1 or more commits          |
-| C9      | Next 20 people    | 0.5 DASH |  10 DASH   | ...who make 1 or more commits          |
+| C9      | Next 20 people... | 0.5 DASH |  10 DASH   | ...who make 1 or more commits          |
 | C10     | Remaining people  |          |  10 DASH   | split between remaining who join       |
 | C11     | Discretionary     |          |  20 DASH   | for great content (blogs, guides, etc) |
 |**Total**|                   |          |**50 DASH**|                                         |
