@@ -6,7 +6,7 @@ An open platform that incentivizes collaborative content and projects
 
 ##### Summary
 
-[Dash community](https://github.com/dashcommunity)is an open platform that incentivizes collaborative content and projects, using a transparent, powerful, and relatively easy-to-use hosting service, i.e. Github.  Specifically, it is a [github organization](https://github.com/blog/674-introducing-organizations) separate from, and complementary to, the main [dashpay organization](https://github.com/dashpay).  The Dash Community github organization hosts repositories for various purposes - something for everyone.  I'm proposing it in order to increase community contribution and continue the general decentralization of Dash.  It will achieve this by lowering the barrier to entry for software developers, writers, marketers, and anyone who wishes to use or contribute to Dash.
+[Dash community](https://github.com/dashcommunity) is an open platform that incentivizes collaborative content and projects, using a transparent, powerful, and relatively easy-to-use hosting service, i.e. Github.  Specifically, it is a [github organization](https://github.com/blog/674-introducing-organizations) separate from, and complementary to, the main [dashpay organization](https://github.com/dashpay).  The Dash Community github organization hosts repositories for various purposes - something for everyone.  I'm proposing it in order to increase community contribution and continue the general decentralization of Dash.  It will achieve this by lowering the barrier to entry for software developers, writers, marketers, and anyone who wishes to use or contribute to Dash.
 
 ##### Motivation
 
