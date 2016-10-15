@@ -14,7 +14,7 @@ Specifically, it is a [github organization](https://github.com/blog/674-introduc
 
 > "Having lots of people involved with Dash is what makes it successful!" - Evan Duffield
 
-Many people are eager to contribute to Dash.  Many are not sure where or how to begin.  This Dash Community project I'm proposing will help answer those questions.  New-comers and seasoned dashers alike will have the opportunity to contribute using an open, easy-to-use platform that offers financial incentives for quality content.
+Many people are eager to contribute to Dash.  Many are not sure where or how to begin.  This project will help answer those questions.  New-comers and seasoned dashers alike will have the opportunity to contribute using an open, easy-to-use platform that offers financial incentives for quality content.
 
 Increasing community contribution will help Dash become more decentralized, which is a healthy transition for any cryptocurrency that wishes to achieve sustainable adoption, while remaining resiliant to outside attacks and competition.
 
