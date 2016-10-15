@@ -1,33 +1,37 @@
 # Proposal - Dash Commmunity
 
-Open collaboration for dash-related projects
+An open platform that incentivizes collaborative content and projects 
 
 ### Overview
 
+##### Summary
+
+[Dash community](https://github.com/dashcommunity)is an open platform that incentivizes collaborative content and projects, using a transparent, powerful, and relatively easy-to-use hosting service, i.e. Github.  Specifically, it is a [github organization](https://github.com/blog/674-introducing-organizations) separate from, and complementary to, the main [dashpay organization](https://github.com/dashpay).  The Dash Community github organization hosts repositories for various purposes - something for everyone.  I'm proposing it in order to increase community contribution and continue the general decentralization of Dash.  It will achieve this by lowering the barrier to entry for software developers, writers, marketers, and anyone who wishes to use or contribute to Dash.
+
+##### Motivation
+
 > "Having lots of people involved with Dash is what makes it successful!" - Evan Duffield
 
-This proposed project aims to get more people actively involved with dash.  Like every cryptocurrency project, dash's strength is the degree to which it becomes and remains decentralized and open.  This project will help lead dash in that direction.
+Many people are eager to contribute to Dash.  Many are not sure where or how to begin.  This Dash Community project I'm proposing will help answer those questions.  New-comers and seasoned dashers alike will have the opportunity to contribute using an open, easy-to-use platform that offers financial incentives for quality content.
 
-Many people are eager to contribute to the dash project.  Many are not sure where and how to begin.  The **Dash Community** project I'm proposing **is a place where anyone can join and contribute their time and talents, using a collaborative, transparent, work-oriented platform**.  This [Github organization](https://github.com/dashcommunity) and repositories therein is that place.  
+Increasing community contribution will help Dash become more decentralized, which is a healthy transition for any cryptocurrency that wishes to achieve sustainable adoption, while remaining resiliant to outside attacks and competition.
 
-There are many useful tools and resources in the dash ecosystem
+There are many useful tools and resources in the Dash ecosystem:
 * [Dash.org](https://www.dash.org/) and the accompanying [forum](https://www.dash.org/forum/)
 * The [official project documentation](https://dashpay.atlassian.net/wiki/display/DOC/Official+Documentation)
-* The main [dashpay Github repository](https://github.com/dashpay)
-* Varous Slack teams and channels
-* Varous Community-produced sites
+* The [main dashpay Github repository](https://github.com/dashpay)
+* Community-produced sites
   * [dash central](https://www.dashcentral.org/)
   * [dash vote tracker](http://dashvotetracker.com/)
-* and more
+* Slack teams, and more
 
-The resources above are very helpful for reference and use, but are somewhat restricted in terms of general community accessibility.  The community cannot directly help build on and improve these resources.  An open platform would provide opportunities for individuals and teams to build products and services that anyone else can easily contribute to.  This [Github organization](https://github.com/dashcommunity) is that platform.
-
+These resources are very helpful for reference and use, but are somewhat restricted in terms of accessibility and contribution.  The community cannot directly help build on and improve these resources.  An open platform would provide opportunities for individuals and teams to build products and services that anyone else can easily contribute to and integrate with.  This [Github organization](https://github.com/dashcommunity) is that platform.
 
 ### Scope
 
-Some of the Dash Community infrastructure (this Github organization and repositories within) has already been built.  This proposal is a request for reimbursement of the cost incurred (time spent) bringing it to the present state, as well as a request for further funding to imporve it, and support the community in using it.
+Some of the Dash Community infrastructure (the Github organization and repositories within) has already been built.  This proposal is a request for reimbursement of the cost incurred (time spent) bringing it to the present state, as well as a request for further funding to improve it and support the community in using it.
 
-The following sub-sections will list what I've accomplished, what I plan to do throughout the month (during voting), and what I plan to do contingent on project funding.  This proposal will remain static after submission, but I will be continually updating [the project management board](https://github.com/dashcommunity/proposal-dash-community/projects/1).  My requested budget will remain fixed, but the effort and deliverables you can expect may increase.  Stop by occassionally, or [watch](https://github.com/dashcommunity/proposal-dash-community/subscription) the repo for updates.
+The following sub-sections will list what I've accomplished, what I plan to do throughout the month (during voting), and what I plan to do contingent on project funding.  This document (the proposal) may remain static, but I will be continually updating [the project management board](https://github.com/dashcommunity/proposal-dash-community/projects/1?fullscreen=true).  My requested budget will remain fixed, but the effort and deliverables you can expect from me may increase.  Stop by occassionally, or [watch](https://github.com/dashcommunity/proposal-dash-community/subscription) the repo for updates.
 
 ##### Deliverables
 
@@ -88,7 +92,7 @@ Total proposed project costs are summarized in Table 2.
 
 The costs to perform the deliverables and milestones above are based on expected (and expended) time required to perform the item, along with a given billable rate.  All of this work is exclusively my own, and is billed at 5 DASH/hr. Details are shown in Table 3.
 
-In addition to my time, I would like to compensate community members for their time and interest in the project.  I am proposing to pay all community members who join and contribute at least one meaningful commit to the organization.  Rates for this are proposed in Table 4. 
+In addition to my time, I would like to compensate community members.  I propose paying all community members who join and contribute at least one meaningful commit to the organization.  Proposed rates are shown in Table 4. 
 
 ##### Itemized Costs
 
@@ -110,7 +114,7 @@ In addition to my time, I would like to compensate community members for their t
 | C6       | M6      |  0 hr(s) |    5 DASH   |     0 DASH   |               |
 | C7       | M7      |  3 hr(s) |    5 DASH   |    15 DASH   |               |
 |*Subtotal*|         |          |             |  *300 DASH*  |               |
-| Discount |         |          |             |  -100 DASH   | I love dash!  |
+| Discount |         |          |             |  -100 DASH   | I love Dash!  |
 |**Total** |         |          |             | **200 DASH** |               |
 
 ###### Table 4 - Compensation for Community Participation
@@ -124,16 +128,16 @@ In addition to my time, I would like to compensate community members for their t
 
 ##### Terms
 
-I am requesting **one single paymnet of 250 DASH** to cover the following: 
+I am requesting **one single payment of 250 DASH** to cover the following: 
 
 * the preceeding month's work (September)
 * the month during voting (October)
-* and support into the next month if the proposal passes (November)
+* support through the next month if the proposal passes (November)
 * community participation rewards (November)
 
 ### Closing
 
-This community effort can grow as big or as small as we wish.  The more financial incentive we can offer the community the better and more expansive the platform and community will become, which will lead to a healthier, more decentralized community.  This platform will be ideal for
+This community can grow as large as we wish.  The more financial incentive we can offer the more expansive the platform will become, which will lead to a healthier, more decentralized project.  This platform is ideal for
 
 * **developers** (projects that need to host code)
 * **writers** (of blogs, guides, etc.)
