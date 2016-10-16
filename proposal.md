@@ -10,6 +10,8 @@ This proposal is to fund the creation and maintenance of what I'm calling "Dash 
 
 Specifically, it is a [github organization](https://github.com/blog/674-introducing-organizations) separate from, and complementary to, the main [dashpay organization](https://github.com/dashpay).  The [dashcommunity organization](https://github.com/dashcommunity) hosts repositories for various purposes - something for everyone.  I'm proposing it in order to increase community contribution and continue the general decentralization of Dash.  It will achieve this by lowering the barrier to entry for software developers, writers, marketers, and anyone who wishes to use or contribute to Dash.
 
+I'm requesting **one single payment of 250 DASH** for this project.  This covers primarily my own time, but 20% of the total will be redistributed back to community members who participate in the project.  
+
 ##### Motivation
 
 > "Having lots of people involved with Dash is what makes it successful!" - Evan Duffield
@@ -126,17 +128,17 @@ In addition to my time, I would like to compensate community members.  I propose
 |**Total**|                   |          |**50 DASH**|                                         |
 
 ##### Terms
-
 I am requesting **one single payment of 250 DASH** to cover the following: 
 
 * the preceeding month's work (September)
-* the month during voting (October)
-* support through the next month if the proposal passes (November)
-* community participation rewards (November)
+* deliverables and support through this month (October)
+* deliverables and support through next month if the proposal passes (November)
+* community participation compensation (November)
 
 ### Closing
+If the project is funded I will develop another separate proposal to continue supporting the project into future months.  The scope, schedule, and budget for that revision will be based on community feedback.  
 
-This community can grow as large as we wish.  The more financial incentive we can offer the more expansive the platform will become, which will lead to a healthier, more decentralized project.  This platform is ideal for
+This project can grow as large as we wish.  The more financial incentive we can offer the more expansive the platform will become, which will lead to a healthier, more decentralized ecosystem.  The platform is ideal for
 
 * **developers** (projects that need to host code)
 * **writers** (of blogs, guides, etc.)
