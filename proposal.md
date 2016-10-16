@@ -99,33 +99,30 @@ In addition to my time, I would like to compensate community members.  I propose
 ##### Itemized Costs
 
 ###### Table 2 - Cost Summary
-|     Item               |    Cost  |   Units  |   Comment    |
-|------------------------|:--------:|:--------:|--------------|
-| Deliverables           |    200   |   DASH   | See Table 3  |
-| Community Partcipation |     50   |   DASH   | See Table 4  |
-| **Total**              |  **250** | **DASH** |              |
+|     Item                    |    Cost  |   Units  |   Comment    |
+|-----------------------------|:--------:|:--------:|--------------|
+| Deliverables                |    200   |   DASH   | See Table 3  |
+| Community Partcipation      |     50   |   DASH   | See Table 4  |
+| **Total**                   |  **250** | **DASH** |              |
 
 ###### Table 3 - Compensation for Deliverables
-|  Cost    | Desc.   | Time Est | Rate (D/hr) | Cost (DASH)  |   Comment     |
-|----------|-------- |:--------:|:-----------:|:------------:|---------------|
-| C1       | M1      | 36 hr(s) |    5 DASH   |   180 DASH   |               |
-| C2       | M2      | 10 hr(s) |    5 DASH   |    50 DASH   |               |
-| C3       | M3      |  4 hr(s) |    5 DASH   |    20 DASH   |               |
-| C4       | M4      |  2 hr(s) |    5 DASH   |    10 DASH   |               |
-| C5       | M5      |  5 hr(s) |    5 DASH   |    25 DASH   |               |
-| C6       | M6      |  0 hr(s) |    5 DASH   |     0 DASH   |               |
-| C7       | M7      |  3 hr(s) |    5 DASH   |    15 DASH   |               |
-|*Subtotal*|         |          |             |  *300 DASH*  |               |
-| Discount |         |          |             |  -100 DASH   | I love Dash!  |
-|**Total** |         |          |             | **200 DASH** |               |
+|  Cost    | Desc.            | Time Est | Rate (D/hr) | Cost (DASH)  |   Comment                |
+|----------|------------------|:--------:|:-----------:|:------------:|--------------------------|
+| C1       | D1.1 - D1.7      | 40 hr(s) |    5 DASH   |   200 DASH   | Work to date             |
+| C2       | D2.1 - D2.4      | 20 hr(s) |    5 DASH   |   100 DASH   | Projected October work   |
+| C3       | D3.1 - D3.5      | 20 hr(s) |    5 DASH   |   100 DASH   | Projected November work  |
+| C4       | Proposal fee     |          |    5 DASH   |     5 DASH   | Reimburse this proposal  |
+|*Subtotal*|                  |          |             |  *405 DASH*  |                          |
+| Discount |                  |          |             |  -205 DASH   | >50% off, I love Dash!   |
+|**Total** |                  |          |             | **200 DASH** |                          |
 
 ###### Table 4 - Compensation for Community Participation
 |   Cost  |    Description    |  Reward  |   Cost     |          Comment                       |
 |---------|-------------------|:--------:|:----------:|----------------------------------------|
-| C8      | First 10 people...| 1.0 DASH |  10 DASH   | ...who make 1 or more commits          |
-| C9      | Next 20 people... | 0.5 DASH |  10 DASH   | ...who make 1 or more commits          |
-| C10     | Remaining people  |          |  10 DASH   | split between remaining who join       |
-| C11     | Discretionary     |          |  20 DASH   | for great content (blogs, guides, etc) |
+| C5      | First 10 people...| 1.0 DASH |  10 DASH   | ...who make 1 or more commits          |
+| C6      | Next 20 people... | 0.5 DASH |  10 DASH   | ...who make 1 or more commits          |
+| C7      | Remaining people  |          |  10 DASH   | split between remaining who join       |
+| C8      | Discretionary     |          |  20 DASH   | for great content (blogs, guides, etc) |
 |**Total**|                   |          |**50 DASH**|                                         |
 
 ##### Terms
