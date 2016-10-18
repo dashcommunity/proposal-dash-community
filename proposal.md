@@ -16,14 +16,14 @@ I'm requesting **one single payment of 250 DASH** for this project.  This covers
 
 > "Having lots of people involved with Dash is what makes it successful!" - Evan Duffield
 
-The primary motivation for this project is to increase the value of dash.  As Evan's sentiment above suggests, I believe this is best achieved through sustainable community growth.  For growth to be sustainable, two things are required:
+The primary motivation for this project is to increase the value of Dash.  As Evan's sentiment above suggests, I believe this is best achieved through sustainable community growth.  For growth to be sustainable, two things are required:
 
 * increase community contribution
 * decrease project centralization
 
 The two go hand in hand; Dash becomes more decentralized as independent community members contribute to it.  This is obvious to some, but it bears repeating and expounding upon.  I have begun to make the case more explicit in this [blog post about decentralization](https://github.com/dashcommunity/blog/blob/master/shift_to_decentralization.md).
 
-Many people are eager to contribute to Dash, but many are not sure where or how to begin.  Or, they know where and how to contribute, but they cannot financially justify altruistically contributing to the project.  To increase community contribution, two things are required:
+Many people are eager to contribute to Dash, but many are not sure where or how to begin.  Or, they know where and how, but they cannot financially justify altruistically contributing to the project.  To increase community contribution, two things are required:
 
 * lower the barrier to entry
 * raise the incentive to enter
@@ -37,15 +37,15 @@ There are many useful tools and resources in the Dash ecosystem:
   * [dash vote tracker](http://dashvotetracker.com/)
 * Slack teams, and more
 
-These resources are very helpful for reference and use, but are somewhat restricted in terms of accessibility and contribution.  The community cannot directly help build on and improve these resources.  There is a barrier to entry.  An open platform would provide opportunities for individuals and teams to build products and services that anyone else can easily contribute to and integrate with.  This [Github organization](https://github.com/dashcommunity) is that platform.
+These resources are very helpful for reference and use, but are somewhat restricted in terms of accessibility and contribution.  The community cannot directly help build on and improve these resources.  An open platform would provide opportunities for individuals and teams to build products and services that anyone else can easily contribute to and integrate with.  Dash new-comers will benefit from the additional learning resources produced ([guides](https://github.com/dashcommunity/guides), [blog posts](https://github.com/dashcommunity/blog), etc).  This *lowers the barrier to entry* for both experienced content creators and interested new-comers.
 
-Dash Community will give Dash enthusiasts an open forum to contribute dash-related content to.  Dash new-comers will benefit from the additional learning resources producted ([guides](), [blogs](), etc).  The scope of the project is detailed in the following section.
+A portion of the funds requested for this project will be distributed to people who join and contribute to Dash Community.  This *raises the incentive to enter* as a Dash contributor.  The lowered barrier and raised incentive increase participation, which yields a more decentralized project, which sustainably raises the value of Dash.
 
 ### Scope
 
-Part of the Dash Community infrastructure (the Github organization and repositories within) has already been built.  This proposal is a request for reimbursement for the cost incurred (time spent) bringing it to the present state, as well as a request for further funding to improve it and support the community in using it.
+Part of the Dash Community infrastructure (the Github organization and repositories within) has already been built.  Part is planned, but not yet built, and much more is possible.  This proposal is a request for reimbursement for the cost incurred (time spent) bringing it to the present state, as well as a request for further funding to improve it and support the community in using it.
 
-The following sub-sections will list what I've accomplished, what I plan to do throughout the month (during voting), and what I plan to do contingent on project funding.  This document (the proposal) may remain unedited once submitted, but I will be continually updating [the project management board](https://github.com/dashcommunity/proposal-dash-community/projects/1?fullscreen=true).  My requested budget will is fixed, but the effort and deliverables you can expect from me will likely increase if there is interest.  Stop by occassionally, or [watch](https://github.com/dashcommunity/proposal-dash-community/subscription) the repo for updates.
+The following sub-sections will list what I've accomplished, what I plan to do throughout the month (during voting), and what I plan to do contingent on project funding.  This document (the proposal) may remain unedited once submitted, but I will be continually updating [the project management board](https://github.com/dashcommunity/proposal-dash-community/projects/1?fullscreen=true) throughout this and next month.  My requested budget is fixed, but the effort and deliverables you can expect from me will likely increase if there is interest.  Stop by occassionally, or [watch](https://github.com/dashcommunity/proposal-dash-community/subscription) the repo for updates.
 
 ##### Deliverables
 
