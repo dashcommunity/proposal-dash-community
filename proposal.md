@@ -104,9 +104,9 @@ Table 1 below lists the key deliverables with anticipated completion dates.
 
 Total proposed project costs are summarized in Table 2. 
 
-The costs to perform the deliverables and milestones above are based on expected (and expended) time required to perform the item, along with a given billable rate.  All of this work is exclusively my own, and is billed at 5 DASH/hr. Details are shown in Table 3.
+The costs to perform the deliverables above are based on expected (and expended) time required to perform the item, along with a given billable rate.  This work is exclusively my own (no subcontractors), and is billed at 5 DASH/hr. Details are shown in Table 3.
 
-In addition to my time, I would like to compensate community members.  I propose paying all community members who join and contribute at least one meaningful commit to the organization.  Proposed rates are shown in Table 4. 
+In addition to my time, I would like to compensate community members.  I propose paying all community members who join and contribute at least one meaningful commit to the organization.  Proposed rewards are shown in Table 4. 
 
 ##### Itemized Costs
 
