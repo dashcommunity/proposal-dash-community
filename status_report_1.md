@@ -89,5 +89,3 @@ This project can grow as large as we wish.  The more financial incentive we can 
 * **developers** (projects that need to host code)
 * **writers** (of blogs, guides, etc.)
 * marketers or **anyone** who wishes to host community funded files and content on a powerful, transparent platform
-
-> "Anyone, with any skill set (software, quality assurance, automation, admin, marketing, legal, etc) is needed." - Evan Duffield
