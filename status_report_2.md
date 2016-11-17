@@ -1,7 +1,7 @@
 # Status Report - Dash Community
 
 ##### Status Summary
-In total status report **22 people have joined** the Dash Community gihub organization.  In addition to those who have joined there are 4 pending invites to people who have requested to join.  People were asked to take a small survey when they signed up.  One of the questions asked which aspect of the project they were interested in, as shown below:
+In total, **22 people have joined** the Dash Community gihub organization.  In addition to those who have joined there are 4 pending invites to people who have requested to join.  People were asked to take a small survey when they signed up.  One of the questions asked which aspect of the project they were interested in, as shown below:
 
 ![Project Interest](https://github.com/dashcommunity/proposal-dash-community/blob/master/Screen%20Shot%202016-11-16%20at%2021.24.22.png)
 
