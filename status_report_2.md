@@ -3,7 +3,9 @@
 ##### Status Summary
 In total, **22 people have joined** the Dash Community gihub organization.  In addition to those who have joined there are 4 pending invites to people who have requested to join.  People were asked to take a small survey when they signed up.  One of the questions asked which aspect(s) of the project they were interested in. Responses are shown below:
 
-![Project Interest](https://github.com/dashcommunity/proposal-dash-community/blob/master/Screen%20Shot%202016-11-16%20at%2021.24.22.png)
+![Project Interest Question](https://github.com/dashcommunity/proposal-dash-community/blob/master/Screen%20Shot%202016-11-16%20at%2022.47.31.png)
+
+![Project Interst Responses](https://github.com/dashcommunity/proposal-dash-community/blob/master/Screen%20Shot%202016-11-16%20at%2021.24.22.png)
 
 Some also gave open ended feedback about the project: 
 
