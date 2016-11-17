@@ -3,11 +3,11 @@
 ##### Status Summary
 In total status report **22 people have joined** the Dash Community gihub organization.  In addition to those who have joined there are 4 pending invites to people who have requested to join.  People were asked to take a small survey when they signed up.  One of the questions asked which aspect of the project they were interested in, as shown below:
 
-![Project Interest]()
+![Project Interest](https://github.com/dashcommunity/proposal-dash-community/blob/master/Screen%20Shot%202016-11-16%20at%2021.24.22.png)
 
 Some also gave open ended feedback about the project: 
 
-![Project Feedback]()
+![Project Feedback](https://github.com/dashcommunity/proposal-dash-community/blob/master/Screen%20Shot%202016-11-16%20at%2021.25.13.png)
 
 Although we've had many people join the organization, relatively few have made contributions.  I suspect this is mainly due to the project being new and not user friendly enough.  The process for creating blog posts and guides is still too difficult and the landing pages need significant improvment.  I plan on making several changes to this end starting tomorrow, and I will update this status report accordingly.  Stay tuned.    
 
